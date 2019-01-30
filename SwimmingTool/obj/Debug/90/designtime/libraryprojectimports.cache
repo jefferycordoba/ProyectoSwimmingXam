@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\13\jl\android.arch.core.common.jar</Jar>
+    <Jar>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\14\jl\android.arch.lifecycle.common.jar</Jar>
+    <Jar>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\15\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\16\jl\com.android.support.support-annotations.jar</Jar>
+    <Jar>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\17\jl\com.android.support.collections.jar</Jar>
+    <Jar>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\18\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\19\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\1\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\2\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\3\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\4\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\5\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\8\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\9\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\10\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\15\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\18\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\1\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\2\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\3\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\4\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\5\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\8\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\9\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\10\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\15\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\8.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\9.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\15.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\jeffe\Desktop\SwimmingTool-feature-camera\SwimmingTool\obj\Debug\90\lp\18.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
