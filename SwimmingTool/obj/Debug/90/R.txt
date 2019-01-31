@@ -192,7 +192,7 @@ int id pixel 0x7f09001f
 int id pixelLine 0x7f090020
 int id radioGroup1 0x7f090038
 int id resetButton 0x7f09002e
-int id resultListView 0x7f090063
+int id resultDataGrid 0x7f090063
 int id right_icon 0x7f09004d
 int id right_side 0x7f09004b
 int id selectAll 0x7f09001b

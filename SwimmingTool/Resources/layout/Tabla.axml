@@ -113,11 +113,12 @@
             android:layout_height="match_parent"
             android:id="@+id/brazadaTextView" />
     </LinearLayout>
-    <ListView
-        android:minWidth="35dp"
-        android:minHeight="35dp"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/resultListView" />
+	<Syncfusion.SfDataGrid.SfDataGrid
+		android:minWidth="25dp"
+		android:minHeight="25dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/resultDataGrid" />
+    
 	
 </LinearLayout>

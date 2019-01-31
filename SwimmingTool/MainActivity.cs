@@ -10,7 +10,7 @@ using System.Threading;
 
 namespace SwimmingTool
 {
-    [Activity(Label = "SwimmingTool", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity(Label = "SwimmingTool", MainLauncher = true, Icon = "@mipmap/icon", ScreenOrientation = Android.Content.PM.ScreenOrientation.Portrait)]
     public class MainActivity : Activity
     {
 
@@ -66,7 +66,16 @@ namespace SwimmingTool
             }
             else
             {
-                
+                estatura = Convert.ToInt32(estatutaEditText.Text);
+                longBrazo = Convert.ToInt32(brazoEditText.Text);
+
+                if ((estatura <= 0) || (longBrazo <= 0))
+                {
+                    Toast.MakeText(ApplicationContext, "La estatura y la longitud del brazo deben ser mayores que 0", ToastLength.Long).Show();
+                }
+                else
+                {
+
 
                     if (!isCammeraPermissionEnabled)
                     {
@@ -75,7 +84,7 @@ namespace SwimmingTool
                     }
 
                     Nadador nadador = new Nadador();
-                    
+
 
                     if (registroDB.GetNadador(documentoEditText.Text) == null)
                     {
@@ -90,7 +99,7 @@ namespace SwimmingTool
                             nadador.sexo = "Femenino";
                         }
                         nadador.estatura = Convert.ToInt32(estatutaEditText.Text);
-                        nadador.longitudBrazo = Convert.ToInt32(brazoEditText.Text); ;
+                        nadador.longitudBrazo = Convert.ToInt32(brazoEditText.Text);
                         registroDB.addNewNadador(nadador);
                         Bundle bundle = new Bundle();
                         var intent = new Intent(this, typeof(Brazada));
@@ -101,11 +110,11 @@ namespace SwimmingTool
                     }
                     else
                     {
-                                                    
-                    Toast.MakeText(ApplicationContext, "Ya existe un nadador con este documento", ToastLength.Long).Show();
-                    
+
+                        Toast.MakeText(ApplicationContext, "Ya existe un nadador con este documento", ToastLength.Long).Show();
+
                     }
-                
+                }
                 
             }
           
@@ -125,6 +134,7 @@ namespace SwimmingTool
             var intent = new Intent(this, typeof(Tabla));
             StartActivity(intent);
         }
+
         void OnIngresarClick(object sender, EventArgs e)
         {
             if (documentoEditText.Text != "")
@@ -132,7 +142,7 @@ namespace SwimmingTool
                 if (registroDB.GetNadador(documentoEditText.Text) != null)
                 {
                     Bundle bundle = new Bundle();
-                    var intent = new Intent(this, typeof(Resultado));
+                    var intent = new Intent(this, typeof(Brazada));
                     bundle.PutString("documento", documentoEditText.Text);
                     intent.PutExtras(bundle);
                     StartActivity(intent);

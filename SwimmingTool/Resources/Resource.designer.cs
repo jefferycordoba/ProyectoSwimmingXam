@@ -1025,7 +1025,7 @@ namespace SwimmingTool
 			public const int resetButton = 2131296302;
 			
 			// aapt resource value: 0x7f090063
-			public const int resultListView = 2131296355;
+			public const int resultDataGrid = 2131296355;
 			
 			// aapt resource value: 0x7f09004d
 			public const int right_icon = 2131296333;

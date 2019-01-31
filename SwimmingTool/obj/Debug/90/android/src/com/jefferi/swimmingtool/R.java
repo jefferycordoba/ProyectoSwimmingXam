@@ -788,7 +788,7 @@ containing a value of this type.
         public static final int pixelLine=0x7f090020;
         public static final int radioGroup1=0x7f090038;
         public static final int resetButton=0x7f09002e;
-        public static final int resultListView=0x7f090063;
+        public static final int resultDataGrid=0x7f090063;
         public static final int right_icon=0x7f09004d;
         public static final int right_side=0x7f09004b;
         public static final int selectAll=0x7f09001b;

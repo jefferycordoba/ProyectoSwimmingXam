@@ -8,13 +8,13 @@ namespace SwimmingTool
     {
         [PrimaryKey, AutoIncrement, Column("_id")]
         public int id { get; set; }
-        public int numBrazadas { get; set; }
-        public String time { get; set; }
+        public int cantidadBrazadas { get; set; }
+        public String tiempo { get; set; }
         public String documento { get; set; }
-        public String feha { get; set; }
-        public String frecProm { get; set; }
-        public String velocidadProm { get; set; }
-        public String longitudBrazadaProm { get; set; }
+        public String fechaSesion { get; set; }
+        public String frecuenciaBrazadaPromedio { get; set; }
+        public String velocidadPromedio { get; set; }
+        public String longitudBrazadaPromedio { get; set; }
         public String recomendacion { get; set; }
         public  Registro(){
 
